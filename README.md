@@ -1,4 +1,4 @@
-# LASIR: Latent Subgroup Identification (Paper code)	
+# LASIR: Latent Subgroup Identification in Image-on-scalar regression (Paper code)	
 
 
 
